@@ -49,6 +49,7 @@ What is needed to set up the development environment.
 
 - python
 - visual studio code
+- Git
 
 ## Database
 
